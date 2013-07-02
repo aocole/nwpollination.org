@@ -1,0 +1,407 @@
+# Copyright (C) 2013 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Dusk To Dawn 1.3-wpcom\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/dusk-to-dawn\n"
+"POT-Creation-Date: 2013-05-30 15:46:55+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:11
+msgid "Well this is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: 404.php:15
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching, or one of the links below, can help."
+msgstr ""
+
+#: 404.php:22
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smilie
+#: 404.php:30
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: archive.php:16
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:18
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:20
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:22
+msgid "Category Archives: %s"
+msgstr ""
+
+#: archive.php:24
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: archive.php:26
+msgid "Author Archives"
+msgstr ""
+
+#: archive.php:28 sidebar.php:22
+msgid "Archives"
+msgstr ""
+
+#: archive.php:67 index.php:30
+msgid "Nothing Found"
+msgstr ""
+
+#: archive.php:71 index.php:34
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: comments.php:15
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:26
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:27
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: comments.php:28
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: comments.php:38
+msgid "Comments are closed."
+msgstr ""
+
+#: content-audio.php:10 content-gallery.php:10 content.php:15
+msgid "All %s posts"
+msgstr ""
+
+#: content-audio.php:13 content-gallery.php:13 content-link.php:11
+#: content.php:19
+msgid "Featured"
+msgstr ""
+
+#: content-audio.php:41
+msgid "Download: %1$s"
+msgstr ""
+
+#: content-audio.php:45 content-gallery.php:36 content-link.php:34
+#: content.php:41
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content-audio.php:46 content-gallery.php:73 content-link.php:35
+#: content-page.php:15 content.php:42 image.php:75
+msgid "Pages:"
+msgstr ""
+
+#: content-audio.php:53 content-gallery.php:81 content-link.php:42
+#: content.php:49
+msgid "Leave a comment"
+msgstr ""
+
+#: content-audio.php:53 content-gallery.php:81 content-link.php:42
+#: content.php:49
+msgid "1 Comment"
+msgstr ""
+
+#: content-audio.php:53 content-gallery.php:81 content-link.php:42
+#: content.php:49
+msgid "% Comments"
+msgstr ""
+
+#: content-audio.php:56 content-gallery.php:84 content-link.php:45
+#: content-page.php:16 content.php:52 image.php:27 image.php:94
+msgid "Edit"
+msgstr ""
+
+#: content-gallery.php:66
+msgid "This gallery contains <a %1$s>%2$s photo</a>."
+msgid_plural "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr[0] ""
+msgstr[1] ""
+
+#: content-gallery.php:67 content-link.php:25
+msgid "Permalink to %s"
+msgstr ""
+
+#: footer.php:12
+msgid "A Semantic Personal Publishing Platform"
+msgstr ""
+
+#: footer.php:12
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:14
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:58
+msgid "Sidebar Menu"
+msgstr ""
+
+#: functions.php:128
+msgid "Sidebar 1"
+msgstr ""
+
+#: functions.php:144
+msgid "Post navigation"
+msgstr ""
+
+#: functions.php:147
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: functions.php:148
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions.php:153
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: functions.php:157
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions.php:168
+msgid ""
+"<a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" "
+"datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"byline\"> <span class="
+"\"sep\"> by </span> <span class=\"author vcard\"><a class=\"url fn n\" href="
+"\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr ""
+
+#: functions.php:174
+msgid "View all posts by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: functions.php:224 functions.php:256 functions.php:264
+msgid ", "
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: functions.php:232
+msgid ""
+"This entry was tagged %2$s.<br />Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>.<br />"
+msgstr ""
+
+#: functions.php:234
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>.<br />"
+msgstr ""
+
+#: functions.php:240
+msgid ""
+"This entry was posted in %1$s and tagged %2$s.<br />Bookmark the <a href="
+"\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>.<br />"
+msgstr ""
+
+#: functions.php:242
+msgid ""
+"This entry was posted in %1$s.<br />Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>.<br />"
+msgstr ""
+
+#: functions.php:259
+msgid "Posted in %1$s"
+msgstr ""
+
+#: functions.php:268
+msgid "Tagged %1$s"
+msgstr ""
+
+#: functions.php:282
+msgid "About %s"
+msgstr ""
+
+#: functions.php:286
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions.php:353
+msgid "Page %s"
+msgstr ""
+
+#: image.php:17
+msgid ""
+"Published <span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s"
+"\">%2$s</abbr></span> at <a href=\"%3$s\" title=\"Link to full-size image\">"
+"%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel="
+"\"gallery\">%7$s</a>"
+msgstr ""
+
+#: image.php:80
+msgid "&larr; Previous"
+msgstr ""
+
+#: image.php:81
+msgid "Next &rarr;"
+msgstr ""
+
+#: image.php:86
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: image.php:88
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+
+#: image.php:90
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: image.php:92
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: inc/theme-options.php:70 inc/theme-options.php:71
+msgid "Theme Options"
+msgstr ""
+
+#: inc/theme-options.php:85
+msgid ""
+"Some themes provide customization options that are grouped together on a "
+"Theme Options screen. If you change themes, options may change or disappear, "
+"as they are theme-specific. Your current theme, Dusk To Dawn, provides the "
+"following Theme Options:"
+msgstr ""
+
+#: inc/theme-options.php:87
+msgid ""
+"<strong>Accent Color</strong>: You can choose the color used for text links "
+"and the top line on your site. You can enter the HTML color or hex code, or "
+"you can choose visually by clicking the \"Select a Color\" button to pick "
+"from a color wheel."
+msgstr ""
+
+#: inc/theme-options.php:88
+msgid ""
+"<strong>Layout</strong>: You can choose if you want your site&#8217;s layout "
+"to have a sidebar on the left, or the right."
+msgstr ""
+
+#: inc/theme-options.php:90
+msgid ""
+"Remember to click \"Save Changes\" to save any changes you have made to the "
+"theme options."
+msgstr ""
+
+#: inc/theme-options.php:91
+msgid "For more information:"
+msgstr ""
+
+#: inc/theme-options.php:92
+msgid ""
+"<a href=\"http://codex.wordpress.org/Appearance_Theme_Options_Screen\" "
+"target=\"_blank\">Documentation on Theme Options</a>"
+msgstr ""
+
+#: inc/theme-options.php:93
+msgid ""
+"<a href=\"http://wordpress.com/support/\" target=\"_blank\">Support Forums</"
+"a>"
+msgstr ""
+
+#: inc/theme-options.php:98
+msgid "Overview"
+msgstr ""
+
+#: inc/theme-options.php:110
+msgid "Content on right"
+msgstr ""
+
+#: inc/theme-options.php:115
+msgid "Content on left"
+msgstr ""
+
+#: inc/theme-options.php:145
+msgid "%s Theme Options"
+msgstr ""
+
+#: inc/theme-options.php:155 inc/theme-options.php:157
+msgid "Accent Color"
+msgstr ""
+
+#: inc/theme-options.php:160
+msgid "Select a Color"
+msgstr ""
+
+#: inc/theme-options.php:163
+msgid "Default color: %s"
+msgstr ""
+
+#: inc/theme-options.php:167 inc/theme-options.php:169
+msgid "Layout"
+msgstr ""
+
+#: inc/theme-options.php:191
+msgid "Save Options"
+msgstr ""
+
+#: index.php:14
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sidebar.php:29
+msgid "Meta"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Dusk To Dawn"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://theme.wordpress.com/themes/dusk-to-dawn/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A dark theme that melds old-style organic ornaments with modern design and "
+"typography. It features a custom header, custom background, and a widget "
+"area in the sidebar. It comes with support for several post formats "
+"including aside, gallery, image, quote, link, chat, and audio."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://automattic.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full-width, no sidebar"
+msgstr ""

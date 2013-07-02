@@ -1,0 +1,314 @@
+# Copyright (C) 2013 Ian Mintz
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Next Saturday 1.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/next-saturday\n"
+"POT-Creation-Date: 2013-05-22 22:10:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:12
+msgid "Not found"
+msgstr ""
+
+#: 404.php:16
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: archive.php:14
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:16
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:18
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:20
+msgid "Category Archives: %s"
+msgstr ""
+
+#: archive.php:22
+msgid "Author Archives: %s"
+msgstr ""
+
+#: archive.php:24
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: archive.php:26 sidebar.php:15
+msgid "Archives"
+msgstr ""
+
+#: comments.php:20
+msgid "One Response"
+msgid_plural "%1$s Responses"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:22 content-aside.php:24 content-audio.php:26
+#: content-chat.php:34 content-gallery.php:68 content-image.php:19
+#: content-link.php:51 content-quote.php:22 content.php:36 image.php:82
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:22
+msgid "&raquo;"
+msgstr ""
+
+#: comments.php:28 comments.php:40
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:29 comments.php:41
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:30 comments.php:42
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#: content-aside.php:16 content-audio.php:17 content-audio.php:19
+#: content-chat.php:26 content-gallery.php:25 content-image.php:13
+#: content-link.php:44 content-quote.php:15
+msgid "Read more <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content-aside.php:17 content-audio.php:21 content-chat.php:28
+#: content-gallery.php:63 content-image.php:14 content-link.php:45
+#: content-quote.php:16 content.php:30 image.php:71 page.php:21
+msgid "Pages:"
+msgstr ""
+
+#: content-aside.php:24 content-audio.php:26 content-chat.php:34
+#: content-gallery.php:68 content-image.php:19 content-link.php:51
+#: content-quote.php:22 content.php:36 image.php:82
+msgid "1 Comment"
+msgstr ""
+
+#: content-aside.php:24 content-audio.php:26 content-chat.php:34
+#: content-gallery.php:68 content-image.php:19 content-link.php:51
+#: content-quote.php:22 content.php:36 image.php:82
+msgid "% Comments"
+msgstr ""
+
+#: content-aside.php:25 content-audio.php:27 content-chat.php:35
+#: content-gallery.php:69 content-image.php:20 content-link.php:52
+#: content-quote.php:23 content.php:37 image.php:83 page.php:26
+msgid "Edit this Entry"
+msgstr ""
+
+#: content-gallery.php:56
+msgid "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photo</a>."
+msgid_plural ""
+"This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photos</a>."
+msgstr[0] ""
+msgstr[1] ""
+
+#: content-link.php:23
+msgid "&rarr;"
+msgstr ""
+
+#: content.php:27 page.php:20
+msgid "Read more"
+msgstr ""
+
+#: content.php:48
+msgid "About %s"
+msgstr ""
+
+#: content.php:53 functions.php:147
+msgid "View all posts by %s"
+msgstr ""
+
+#: footer.php:17
+msgid "A Semantic Personal Publishing Platform"
+msgstr ""
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:31
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:97
+msgid "Default sidebar"
+msgstr ""
+
+#: functions.php:99
+msgid "The primary widget area."
+msgstr ""
+
+#: functions.php:122
+msgid ""
+"<div class=\"entry-date-wrapper\"><div class=\"entry-date\"><p class=\"entry-"
+"day\"><a href=\"%1$s\" class=\"entry-date-link\" title=\"%2$s\" rel="
+"\"bookmark\">%3$s</a></p><p class=\"entry-month\"><a href=\"%1$s\" class="
+"\"entry-date-link\" title=\"%2$s\" rel=\"bookmark\">%4$s. &rsquo;%5$s</a></"
+"p></div><div class=\"entry-date-bottom\"></div><div class=\"entry-date-shadow"
+"\"></div></div>"
+msgstr ""
+
+#: functions.php:137
+msgid ""
+"<span class=\"by-author\"> <span class=\"sep\"> Posted by </span> <span "
+"class=\"author vcard\"><a class=\"url fn n\" href=\"%3$s\" title=\"%4$s\" "
+"rel=\"author\">%5$s</a></span></span>. <span class=\"posted-in\">Categories: "
+"%1$s. Tags: %2$s. </span>"
+msgstr ""
+
+#: functions.php:139
+msgid ""
+"<span class=\"by-author\"> <span class=\"sep\"> Posted by </span> <span "
+"class=\"author vcard\"><a class=\"url fn n\" href=\"%3$s\" title=\"%4$s\" "
+"rel=\"author\">%5$s</a></span></span>. <span class=\"posted-in\">Categories: "
+"%1$s.</span>"
+msgstr ""
+
+#: functions.php:160 single.php:19
+msgid "Post navigation"
+msgstr ""
+
+#: functions.php:161
+msgid "<span class=\"meta-nav\">&larr;</span> Older <span>posts</span>"
+msgstr ""
+
+#: functions.php:162
+msgid "Newer <span>posts</span> <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions.php:180
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:180
+msgid "(Edit)"
+msgstr ""
+
+#. translators: 1: comment author, 2: date and time
+#: functions.php:197
+msgid "%1$s on %2$s <span class=\"says\">said:</span>"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: functions.php:203
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:208
+msgid "[Edit]"
+msgstr ""
+
+#: functions.php:212
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:221
+msgid "Reply &darr;"
+msgstr ""
+
+#: functions.php:290
+msgid "Download: %1$s"
+msgstr ""
+
+#: functions.php:349
+msgid "Page %s"
+msgstr ""
+
+#: header.php:36
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:54
+msgid "RSS Feed"
+msgstr ""
+
+#: image.php:21
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> "
+"at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> "
+"in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+
+#: image.php:75
+msgid "Image navigation"
+msgstr ""
+
+#: image.php:76
+msgid "Previous Image"
+msgstr ""
+
+#: image.php:77
+msgid "Next Image"
+msgstr ""
+
+#: search.php:12
+msgid "<p><span>Search Results for: \"%s\".</span></p>"
+msgstr ""
+
+#: search.php:27
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:32
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: sidebar.php:22
+msgid "Meta"
+msgstr ""
+
+#: single.php:20
+msgid "Previous <span>Post</span>"
+msgstr ""
+
+#: single.php:21
+msgid "Next <span>Post</span>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Next Saturday"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://theme.wordpress.com/themes/next-saturday/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Add a touch of childlike innocence to your blog with Next Saturday, a bold "
+"and playful theme. Originally designed by Ian Mintz, Next Saturday features "
+"styling for muliple post formats, custom background and header support, and "
+"a right sidebar."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Ian Mintz"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.ianmintz.com/"
+msgstr ""
