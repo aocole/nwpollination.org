@@ -1,0 +1,11 @@
+/*
+Theme Name:     Vigilance Child Theme for UPP
+Template:       vigilance 
+*/
+@import url("../vigilance/style.css");
+#title {
+	background: url(http://nwpollination.org/wp-content/uploads/2012/04/webheader.jpg) no-repeat;
+	height: 266px;
+	text-indent: -999em !important; 
+}
+#title a { height: 266px; }
